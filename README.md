@@ -1,6 +1,6 @@
 # namer_app
 
-A new Flutter project.
+Namer app with namer-generator page and favourite page.
 
 ## Getting Started
 
