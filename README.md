@@ -1,6 +1,6 @@
 # namer_app
 
-Namer app with namer-generator page and favourite page.
+Namer app with name-generator page and favourite page.
 
 ## Getting Started
 
